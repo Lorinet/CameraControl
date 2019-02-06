@@ -1,0 +1,5 @@
+<layout id="VideoLayout">
+    <label x="center" y="20" text="Record video" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_SYSTEM_SMALL"/>
+    <bitmap id="id_video" x="center" y="center" filename="../drawables/video.png" dithering="none"/>
+    <bitmap id="id_arrow2" x="center" y="bottom" filename="../drawables/arrow.png" dithering="none"/>
+</layout>

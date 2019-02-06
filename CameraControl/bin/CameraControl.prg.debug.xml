@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="8" lineNum="6" pc="268435561" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="8" lineNum="7" pc="268435565" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="9" lineNum="10" pc="268435584" symbol="onMenu"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="9" lineNum="11" pc="268435588" symbol="onMenu"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="9" lineNum="12" pc="268435672" symbol="onMenu"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="10" lineNum="15" pc="268435676" symbol="onSelect"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="10" lineNum="16" pc="268435680" symbol="onSelect"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="11" lineNum="19" pc="268435704" symbol="onNextPage"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="11" lineNum="20" pc="268435708" symbol="onNextPage"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="12" lineNum="23" pc="268435737" symbol="onSwipe"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="12" lineNum="24" pc="268435741" symbol="onSwipe"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordViewDelegate.mc" id="12" lineNum="26" pc="268435768" symbol="onSwipe"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\Comms.mc" id="14" lineNum="5" pc="268435800" symbol="send"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\Comms.mc" id="14" lineNum="7" pc="268435804" symbol="send"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\Comms.mc" id="16" lineNum="13" pc="268435849" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\Comms.mc" id="16" lineNum="15" pc="268435853" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\Comms.mc" id="17" lineNum="17" pc="268435876" symbol="onComplete"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\Comms.mc" id="18" lineNum="18" pc="268435881" symbol="onError"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="20" lineNum="6" pc="268435886" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="20" lineNum="7" pc="268435890" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="21" lineNum="10" pc="268435909" symbol="onMenu"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="21" lineNum="11" pc="268435913" symbol="onMenu"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="21" lineNum="12" pc="268435997" symbol="onMenu"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="22" lineNum="15" pc="268436001" symbol="onSelect"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="22" lineNum="16" pc="268436005" symbol="onSelect"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="23" lineNum="19" pc="268436029" symbol="onNextPage"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="23" lineNum="20" pc="268436033" symbol="onNextPage"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="24" lineNum="23" pc="268436106" symbol="onSwipe"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="24" lineNum="24" pc="268436110" symbol="onSwipe"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlDelegate.mc" id="24" lineNum="26" pc="268436137" symbol="onSwipe"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="26" lineNum="6" pc="268436213" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="26" lineNum="7" pc="268436217" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="10" pc="268436236" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="12" pc="268436240" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="14" pc="268436251" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="16" pc="268436277" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="18" pc="268436288" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="20" pc="268436314" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="22" pc="268436325" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="24" pc="268436351" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="26" pc="268436362" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="28" pc="268436388" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="30" pc="268436399" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="32" pc="268436425" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="34" pc="268436436" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="36" pc="268436462" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="38" pc="268436473" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="40" pc="268436499" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="42" pc="268436510" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="44" pc="268436536" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlMenuDelegate.mc" id="27" lineNum="46" pc="268436547" symbol="onMenuItem"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordView.mc" id="29" lineNum="5" pc="268436574" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordView.mc" id="29" lineNum="6" pc="268436578" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordView.mc" id="30" lineNum="10" pc="268436597" symbol="onLayout"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordView.mc" id="30" lineNum="11" pc="268436601" symbol="onLayout"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordView.mc" id="31" lineNum="17" pc="268436639" symbol="onShow"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordView.mc" id="32" lineNum="21" pc="268436644" symbol="onUpdate"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordView.mc" id="32" lineNum="23" pc="268436648" symbol="onUpdate"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\VideoRecordView.mc" id="33" lineNum="29" pc="268436669" symbol="onHide"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlView.mc" id="35" lineNum="5" pc="268436674" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlView.mc" id="35" lineNum="6" pc="268436678" symbol="initialize"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlView.mc" id="36" lineNum="10" pc="268436697" symbol="onLayout"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlView.mc" id="36" lineNum="11" pc="268436701" symbol="onLayout"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlView.mc" id="37" lineNum="17" pc="268436739" symbol="onShow"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlView.mc" id="38" lineNum="21" pc="268436744" symbol="onUpdate"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlView.mc" id="38" lineNum="23" pc="268436748" symbol="onUpdate"/>
+<entry filename="I:\\Dev\\eclipse-workspace\\CameraControl\\source\\CameraControlView.mc" id="39" lineNum="29" pc="268436769" symbol="onHide"/>
+<entry filename="Rez" id="45" lineNum="16" pc="268436774" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="17" pc="268436778" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="18" pc="268436796" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="19" pc="268436818" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="20" pc="268436840" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="21" pc="268436862" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="22" pc="268436884" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="23" pc="268436906" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="24" pc="268436928" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="25" pc="268436950" symbol="initialize"/>
+<entry filename="Rez" id="45" lineNum="26" pc="268436972" symbol="initialize"/>
+<entry filename="Rez" id="48" lineNum="47" pc="268436995" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="51" pc="268437007" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="52" pc="268437155" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="53" pc="268437180" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="54" pc="268437232" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="55" pc="268437363" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="56" pc="268437415" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="57" pc="268437467" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="58" pc="268437598" symbol="MainLayout"/>
+<entry filename="Rez" id="48" lineNum="61" pc="268437650" symbol="MainLayout"/>
+<entry filename="Rez" id="49" lineNum="72" pc="268437688" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="76" pc="268437700" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="77" pc="268437848" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="78" pc="268437873" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="79" pc="268437925" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="80" pc="268438056" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="81" pc="268438108" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="82" pc="268438160" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="83" pc="268438291" symbol="VideoLayout"/>
+<entry filename="Rez" id="49" lineNum="86" pc="268438343" symbol="VideoLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389101" method="true" symbol="onSwipe"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="14" object="true" symbol="CameraControlMenuDelegate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="24" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="25" method="true" symbol="MainLayout"/>
+<entry field="true" id="22" symbol="id_arrow2"/>
+<entry field="true" id="20" symbol="id_arrow1"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="30" symbol="AppName"/>
+<entry id="26" method="true" symbol="VideoLayout"/>
+<entry id="9" object="true" symbol="CameraControlApp"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="40" symbol="item_9"/>
+<entry id="39" symbol="item_8"/>
+<entry id="38" symbol="item_7"/>
+<entry id="37" symbol="item_6"/>
+<entry id="36" symbol="item_5"/>
+<entry id="35" symbol="item_4"/>
+<entry id="34" symbol="item_3"/>
+<entry id="33" symbol="item_2"/>
+<entry id="32" symbol="item_1"/>
+<entry id="16" object="true" symbol="CameraControlView"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
+<entry field="true" id="28" symbol="menu_label_2"/>
+<entry id="11" object="true" symbol="Comms"/>
+<entry field="true" id="27" symbol="menu_label_1"/>
+<entry field="true" id="21" symbol="id_video"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388829" method="true" symbol="onComplete"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="13" object="true" symbol="CameraControlDelegate"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="31" method="true" symbol="send"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="12" object="true" symbol="ControlListener"/>
+<entry id="18" module="true" symbol="Layouts"/>
+<entry field="true" id="29" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8388828" method="true" symbol="onError"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="15" object="true" symbol="VideoRecordView"/>
+<entry id="17" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="19" symbol="id_photo"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry id="10" object="true" symbol="VideoRecordViewDelegate"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435800" name="evt" stackId="1" startPc="268435737"/>
+<entry endPc="268435846" name="message" stackId="1" startPc="268435800"/>
+<entry endPc="268436213" name="evt" stackId="1" startPc="268436106"/>
+<entry endPc="268436574" name="item" stackId="1" startPc="268436236"/>
+<entry endPc="268436639" name="dc" stackId="1" startPc="268436597"/>
+<entry endPc="268436669" name="dc" stackId="1" startPc="268436644"/>
+<entry endPc="268436739" name="dc" stackId="1" startPc="268436697"/>
+<entry endPc="268436769" name="dc" stackId="1" startPc="268436744"/>
+<entry endPc="268437687" name="rez_cmp_local_bitmap_7563359401_fontHeight" stackId="3" startPc="268437007"/>
+<entry endPc="268437687" name="rez_cmp_local_bitmap_id_arrow1" stackId="5" startPc="268437007"/>
+<entry endPc="268437687" name="rez_cmp_local_bitmap_id_photo" stackId="4" startPc="268437007"/>
+<entry endPc="268437687" name="rez_cmp_local_bitmap_7563359401" stackId="2" startPc="268437007"/>
+<entry endPc="268437688" name="dc" stackId="1" startPc="268436995"/>
+<entry endPc="268438380" name="rez_cmp_local_bitmap_id_video" stackId="4" startPc="268437700"/>
+<entry endPc="268438380" name="rez_cmp_local_bitmap_1301037203" stackId="2" startPc="268437700"/>
+<entry endPc="268438380" name="rez_cmp_local_bitmap_1301037203_fontHeight" stackId="3" startPc="268437700"/>
+<entry endPc="268438380" name="rez_cmp_local_bitmap_id_arrow2" stackId="5" startPc="268437700"/>
+<entry endPc="268438381" name="dc" stackId="1" startPc="268437688"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="CameraControlApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="CameraControlApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="CameraControlApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="CameraControlApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="VideoRecordViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="VideoRecordViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="VideoRecordViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="VideoRecordViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSwipe" parent="VideoRecordViewDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="send" parent="Comms">
+<param id="message"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ControlListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onComplete" parent="ControlListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onError" parent="ControlListener">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CameraControlDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="CameraControlDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="CameraControlDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="CameraControlDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSwipe" parent="CameraControlDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CameraControlMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="CameraControlMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="VideoRecordView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="VideoRecordView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="VideoRecordView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="VideoRecordView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="VideoRecordView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CameraControlView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="CameraControlView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="CameraControlView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="CameraControlView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="CameraControlView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="VideoLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="254" parentId="globals" symbolId="CameraControlApp" type="class"/>
+<dataEntry offset="325" parentId="globals" symbolId="VideoRecordView" type="class"/>
+<dataEntry offset="404" parentId="globals" symbolId="CameraControlView" type="class"/>
+<dataEntry offset="483" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="562" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="633" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="672" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="719" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="750" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="781" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="828" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="891" parentId="globals" symbolId="CameraControlDelegate" type="class"/>
+<dataEntry offset="970" parentId="globals" symbolId="ControlListener" type="class"/>
+<dataEntry offset="1033" parentId="globals" symbolId="CameraControlMenuDelegate" type="class"/>
+<dataEntry offset="1088" parentId="globals" symbolId="Comms" type="class"/>
+<dataEntry offset="1143" parentId="globals" symbolId="VideoRecordViewDelegate" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

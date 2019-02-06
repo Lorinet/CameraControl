@@ -1,0 +1,11 @@
+<menu id="MainMenu">
+    <menu-item id="item_1" label="Flash on" />
+    <menu-item id="item_2" label="Flash off" />
+    <menu-item id="item_3" label="Front camera" />
+    <menu-item id="item_4" label="Back camera" />
+    <menu-item id="item_5" label="High resolution" />
+    <menu-item id="item_6" label="Medium resolution" />
+    <menu-item id="item_7" label="Low resolution" />
+    <menu-item id="item_8" label="Portrait" />
+    <menu-item id="item_9" label="Landscape" />
+</menu>
